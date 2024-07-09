@@ -203,6 +203,11 @@ body{
   opacity: 0.7;
 }
 
+.youtube-video{
+  padding: 32px 32px;
+  border: 1px solid black;
+}
+
 /* End of inspiration section */
 /* Start of My Current Target Section */
 .my-target-container{
@@ -214,8 +219,56 @@ body{
   text-align: center;
 }
 
+.my-target-con{
+  margin: 0 97px;
+  border: 1px solid black;
+}
+.my-target-con h1{
+  font-size: 32px;
+  font-weight: 800;
+  margin: 24px 0;
+}
+.my-target-con p{
+  font-size: 14px;
+  margin: 24px 0;
+  opacity: .7;
+}
 
-
-
-
+.cart{
+  display: flex;
+  align-items: start;
+  justify-content: space-between;
+  text-align: start;
+  top: 40px;
+}
+.cart-1{
+  padding: 40px;
+  border-radius: 16px;
+  background-color: #FFF6F4;
+}
+.cart-2{
+  margin-left: 24px;
+  padding: 40px;
+  border-radius: 16px;
+  background-color: #F2F6FE;
+}
+.cart-3{
+  margin-left: 24px;
+  padding: 40px;
+  border-radius: 16px;
+  background-color: #FFFDF2;
+}
+.cart-p{
+  font-size: 13px;
+  opacity: .7;
+  margin: 8px 0;
+}
+.cart-h{
+  margin: 8px 0;
+}
+.cart-a{
+  color: black;
+  font-size: 14px;
+  font-weight: 700;
+}
 /* End of My Current Target Section */
