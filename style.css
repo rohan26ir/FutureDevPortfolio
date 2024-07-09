@@ -272,3 +272,66 @@ body{
   font-weight: 700;
 }
 /* End of My Current Target Section */
+/* Start of My Next Target section */
+.my-next-container{
+  margin: 0 166px;
+  background: rgba(13, 19, 33, 0.02);
+  border: 2px solid darkorange;
+  margin-top: 88px;
+  justify-content: center;
+  text-align: center;
+}
+.my-next-content{
+   margin: 0 97px;
+
+   border: 1px solid rebeccapurple;
+}
+
+.my-next-content h2{
+  margin: 24px 0;
+
+}
+.my-next-content p{
+  margin: 24px 0;
+  font-size: 13px;
+  opacity: .7;
+  bottom: 48px;
+}
+
+
+.lang{
+  display: flex;
+  border-radius: 8px;
+  border: 2px solid hotpink;
+
+  justify-content: start;
+  align-items: center;
+  text-align: start;
+  padding: 36px;
+  margin: 24px 0;
+}
+
+.lang .lan1{
+    margin-right: 20px;
+    align-items: center;
+}
+
+.lan-h2{
+   /* margin: 24px 0; */
+   font-size: 20px;
+   font-weight: 700;
+}
+
+.lan-p{
+  margin: 20px 0;
+  font-size: 16px;
+  opacity: .7;
+}
+
+.lan-a{
+   font-size: ;
+   font-weight: 700;
+   color: black;
+}
+
+/* End of My Next Target section */
