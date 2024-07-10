@@ -73,8 +73,9 @@ body{
 /* Start of Why-Web Section */
 
 .Why-Web-container{
-  margin: 0 166px;
+  margin: 60px 166px;
   background: rgba(13, 19, 33, 0.02);
+  padding: 30px 0;
   }
 
 .Why-Web-content{
@@ -98,7 +99,7 @@ body{
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  margin: 32px 0px;
+  margin: 32px 97px;
   padding: 46px;
   border-radius: 16px;
   background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
@@ -121,7 +122,7 @@ body{
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  margin: 32px 0px;
+  margin: 32px 97px;
   padding: 46px;
   border-radius: 16px;
   background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
@@ -159,7 +160,7 @@ body{
 
 .inspiration-container{
   margin: 0 166px;
-  background: rgba(13, 19, 33, 0.02);
+  /* background: rgba(13, 19, 33, 0.02); */
   margin-top: 88px;
   justify-content: center;
   text-align: center;
@@ -171,9 +172,7 @@ body{
 .inspiration-content h1{
   margin: 24px 0;
   }
-.inspiration-content h1{
-  margin: 24px 0;
-  }
+
 .inspiration-content p{
   margin: 24px 0;
   font-size: 14px;
@@ -185,6 +184,7 @@ body{
   padding: 32px 32px;
   border-radius: 10px;
   border: 1px solid black;
+  margin-top: 40px;
   }
 
 /* End of inspiration section */
