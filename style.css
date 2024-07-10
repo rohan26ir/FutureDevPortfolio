@@ -25,6 +25,7 @@ body{
 
 .nav-h:hover{
   color: #C70039;
+  transition: 1s all ease;
 }
 
 .nav-content li{
