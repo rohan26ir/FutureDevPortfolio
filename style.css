@@ -27,7 +27,7 @@ body{
 }
 
 .nav-content button{
-  padding: 17px 24px 17px 24px;
+  padding: 10px 22px;
   justify-content: center;
   background-color: #FFFFFF;
   border: 1px solid black;
@@ -39,8 +39,6 @@ body{
 .banner-container{
   background-image: url(./assets/Hero-bg.png);
   background-repeat: no-repeat;
-  /* width: 100%;
-  height: 100%; */
 }
 .banner-content{
   display: block;
@@ -68,7 +66,6 @@ body{
   border: 1px solid black;
   color: #FFFFFF;
   background: rgb(13, 19, 33);
-  /* bottom: 44px; */
   margin: 32px 0;
 }
 
@@ -78,31 +75,26 @@ body{
 .Why-Web-container{
   margin: 0 166px;
   background: rgba(13, 19, 33, 0.02);
-  border: 2px solid red;
-}
+  }
 
 .Why-Web-content{
   margin: 80px 97px;
   border-radius: 16px;
-
- border: 2px solid red;
-}
+  }
 
 .Why-Web-content h2{
   text-align: center;
   font-size: 32px;
-}
+  }
 
 .Why-Web-content p{
   font-size: 16px;
   opacity: 0.7;
   margin: 24px 0px;
   text-align: center;
-}
+  }
 
 .ban-1{
-  border: 2px solid yellow;
-
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -110,29 +102,22 @@ body{
   padding: 46px;
   border-radius: 16px;
   background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
-}
+  }
 
 .ban-11 h3{
   font-size: 22px;
   margin: 16px 0;
-}
+  }
 .ban-11 p{
   font-size: 14px;
   margin: 16px 0;
   opacity: 0.7;
-}
+  }
 .ban-12{
-  /* background-image: url(./assets/Layer_1.png); */
   margin-left: 98px;
-}
-
-
-
+  }
 
 .ban-2{
-  
-  border: 2px solid yellow;
-
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -140,22 +125,20 @@ body{
   padding: 46px;
   border-radius: 16px;
   background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
-}
+  }
 
 .ban-22 h3{
   font-size: 22px;
   margin: 16px 0;
-}
+  }
 .ban-22 p{
   font-size: 14px;
   margin: 16px 0;
   opacity: 0.7;
-}
+  }
 .ban-21{
-  /* background-image: url(./assets/Layer_1.png); */
   margin-right: 98px;
-}
-
+  }
 
 
        /* learn More Button - Start */
@@ -167,7 +150,7 @@ body{
   background-color: #FFFFFF;
   border: 1.3px solid black;
   margin: 32px 0;
-}
+  }
 
        /* learn More Button - End */
 
@@ -177,58 +160,55 @@ body{
 .inspiration-container{
   margin: 0 166px;
   background: rgba(13, 19, 33, 0.02);
-  border: 2px solid darkorange;
   margin-top: 88px;
   justify-content: center;
   text-align: center;
-}
+  }
 
 .inspiration-content{
   margin: 0 144px;
-}
+  }
 .inspiration-content h1{
   margin: 24px 0;
-}
+  }
 .inspiration-content h1{
   margin: 24px 0;
-}
+  }
 .inspiration-content p{
   margin: 24px 0;
   font-size: 14px;
   font-weight: 400;
   opacity: 0.7;
-}
+  }
 
 .youtube-video{
   padding: 32px 32px;
+  border-radius: 10px;
   border: 1px solid black;
-}
+  }
 
 /* End of inspiration section */
 /* Start of My Current Target Section */
 .my-target-container{
   margin: 0 166px;
-  background: rgba(13, 19, 33, 0.02);
-  border: 2px solid darkorange;
   margin-top: 88px;
   justify-content: center;
   text-align: center;
-}
+  }
 
 .my-target-con{
   margin: 0 97px;
-  border: 1px solid black;
-}
+  }
 .my-target-con h1{
   font-size: 32px;
   font-weight: 800;
   margin: 24px 0;
-}
+  }
 .my-target-con p{
   font-size: 14px;
   margin: 24px 0;
   opacity: .7;
-}
+  }
 
 .cart{
   display: flex;
@@ -236,93 +216,86 @@ body{
   justify-content: space-between;
   text-align: start;
   top: 40px;
-}
+  }
 .cart-1{
   padding: 40px;
   border-radius: 16px;
   background-color: #FFF6F4;
-}
+  }
 .cart-2{
   margin-left: 24px;
   padding: 40px;
   border-radius: 16px;
   background-color: #F2F6FE;
-}
+  }
 .cart-3{
   margin-left: 24px;
   padding: 40px;
   border-radius: 16px;
   background-color: #FFFDF2;
-}
+  }
 .cart-p{
   font-size: 13px;
   opacity: .7;
   margin: 8px 0;
-}
+  }
 .cart-h{
   margin: 8px 0;
-}
+  }
 .cart-a{
   color: black;
   font-size: 14px;
   font-weight: 700;
-}
+  }
 /* End of My Current Target Section */
 /* Start of My Next Target section */
 .my-next-container{
   margin: 0 166px;
-  background: rgba(13, 19, 33, 0.02);
-  border: 2px solid darkorange;
+  /* background: rgba(13, 19, 33, 0.02); */
   margin-top: 88px;
   justify-content: center;
   text-align: center;
-}
+  }
 .my-next-content{
    margin: 0 97px;
-
-   border: 1px solid rebeccapurple;
-}
+   }
 
 .my-next-content h2{
   margin: 24px 0;
-
-}
+  }
 .my-next-content p{
   margin: 24px 0;
   font-size: 13px;
   opacity: .7;
   bottom: 48px;
-}
-
+  }
 
 .lang{
   display: flex;
   border-radius: 8px;
-  border: 2px solid hotpink;
-
   justify-content: start;
   align-items: center;
   text-align: start;
   padding: 36px;
   margin: 24px 0;
-}
+  border: 1px solid black;
+  }
 
 .lang .lan1{
     margin-right: 20px;
     align-items: center;
-}
+    }
 
 .lan-h2{
-   /* margin: 24px 0; */
    font-size: 20px;
    font-weight: 700;
-}
+   }
 
 .lan-p{
   margin: 20px 0;
   font-size: 16px;
   opacity: .7;
-}
+  }
 
 .lan-a{
    font-size: 14px;
@@ -341,36 +314,35 @@ body{
   text-align: center;
   color: white;
   
+  background-color: rgba(0, 0, 0, 0.4);
+  background-blend-mode: overlay;
   background-image: url(./assets/handshake.jpg);
   background-repeat: no-repeat;
+  background-position: center;
   background-size: cover;
-  border: 10px solid khaki;
   margin-bottom: 75px;
-}
+  }
 .support-content{
-  border: 1px solid crimson;
+  background-size: cover;
   margin: 32px 157px;
-  padding: 0 48px;
-}
+  }
 .support-content h1{
-  border: 1px solid crimson;
-
   margin: 16px 0;
-}
+  padding-top: 40px;
+  }
 
 .footer-btn{
   display: flex;
   justify-content: center;
   gap: 10px;
-  margin: 40px 0;
-
-  border: 1px solid burlywood;
-}
+  margin: 40px 0px;
+  padding-bottom: 40px;
+  }
 
 .footer-btn form input{
    padding: 10px;
    width: 300px;
-}
+   }
 
 .footer-btn form button{
   padding: 12px 20px;
@@ -379,7 +351,7 @@ body{
   color: black;
   cursor: pointer;
   border-radius: 6px;
-}
+  }
 
 /* End of Support Section  */
 
@@ -392,9 +364,7 @@ body{
 
   background-color: #F7F8F8;
   padding: 28px 150px;
-
-  border: 2px solid black;
-}
+  }
 
 .footer-icon{
   display: flex;
@@ -402,8 +372,7 @@ body{
   align-items: center;
   justify-content: space-between;
   width: 140px;
-  border: 1px solid red;
-}
+  }
 
 
 /* End of Last Section */
