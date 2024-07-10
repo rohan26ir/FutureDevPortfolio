@@ -20,6 +20,11 @@ body{
 
 .nav-h{
   font-size: 28px;
+  cursor: pointer;
+}
+
+.nav-h:hover{
+  color: #C70039;
 }
 
 .nav-content li{
